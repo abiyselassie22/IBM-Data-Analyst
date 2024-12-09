@@ -20,7 +20,7 @@ This course introduces the basics of visualizing data with Excel & IBM Cognos An
   * IBM's Cognos Analytics tool was used to create a dashboard in Part 2a. <br>
     [Click here for IBM Cognos Dashboard](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/03.%20Data%20Visualization%20%26%20Dashboards%20using%20Excel%20%26%20Cognos/4.%20Final%20Project/Car%20Sales%20Cognos%20Dashboard.pdf)<br>
   * Google's Looker Studio tool was used to create visuals in Part 2b.<br>
-  [Click here for IBM Cognos Dashboard](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/03.%20Data%20Visualization%20%26%20Dashboards%20using%20Excel%20%26%20Cognos/4.%20Final%20Project/Car_Sales_Looker_Dashboard.pdf)<br>
+  [Click here for Google Looker Dashboard](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/03.%20Data%20Visualization%20%26%20Dashboards%20using%20Excel%20%26%20Cognos/4.%20Final%20Project/Car_Sales_Looker_Dashboard.pdf)<br>
 
  # Skills
 
