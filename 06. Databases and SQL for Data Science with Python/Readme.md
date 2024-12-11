@@ -28,7 +28,8 @@ This course introduces Relational databases. SQL is the working language of data
 * **Course Assignment** 
   * Working with Real-World Datasets
   * Working with Built-in SQL Functions
-  * Final Assignment: Database Querying using SQLite [Click here](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/5.%20Course%20Assignment/2.%20Mod5_Final_Project.ipynb)<br>
+  * **Final Assignment: Database Querying using SQLite** [Click here](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/5.%20Course%20Assignment/2.%20Mod5_Final_Project.ipynb)<br>
+  
 * **Advanced SQL for Data Engineer**
   * Views
   * Stored Procedures
