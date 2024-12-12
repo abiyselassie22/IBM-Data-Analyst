@@ -7,13 +7,29 @@ The course prepare s one to enter the job market as a great candidate for a data
 ## Weekly Topics
 
 * **Building a Foundation**
+  * Understanding the Role of a Data Analyst
+  * Opportunities in Data Analysis
+  * Build Your Portfolio
+  * Draft Your Resume 
 * **Applying & Preparing for Interview**
+  * Company & Industry Research
+  * Networking Online and Offline
+  * Assessing Job Listings
+  * Technical Review Fundamentals
+  * Refreshing Essential Analytical Skills
+  * Interview Rehearsal
 * **Interviewing**
-
+  * Overview of the Interview Process
+  * Coding Challenges in Data Analysis
+  * Final Interview
+  * Interviewing: Discussing a Project
+ 
 ## Skills
 
 * Cover letter
 * Elevator Pitch
+* Interview
+* Portfolio
 * Resume
 
 ## Certificates & Badges
