@@ -1,13 +1,17 @@
 # Data Visualization with Python
 
 ## Summary
-This course teaches how to create meaningful, effective, and aesthetically pleasing data visuals (various types of basic & advanced graphs & charts) in Python using Matplotlib & other libraries such as Seaborn, Folium, Plotly & dash. It teaches the many ways of working with various data visualization tools & techniques to effetively visualize both small-scale & large-scale data. One will learn how to create interactive dashboards that allow even those without data analyst experience to better understand data, and make more effective & informed decisions. One will also complete numerous hands-on labs and a Final Project to practice & apply the many aspects & techniques of Data visualization using Jupyter Notebooks & cloud-based IDE. In the Final assignment, I took a role of a data scientist with a primary task to analyze the historical data and give the company directors insights on how the sales were affected during times of recession; and then provide a number of charts or plots to visualize the data and make it easy for the directors to understand my analysis.
-
+This course teaches how to create meaningful, effective, and aesthetically pleasing data visuals (various types of basic & advanced graphs & charts) in Python using Matplotlib & other libraries such as Seaborn, Folium, Plotly & dash. It teaches the many ways of working with various data visualization tools & techniques to effetively visualize both small-scale & large-scale data. One will learn how to create interactive dashboards that allow even those without data analyst experience to better understand data, and make more effective & informed decisions. One will also complete numerous hands-on labs and a Final Project to practice & apply the many aspects & techniques of Data visualization using Jupyter Notebooks & cloud-based IDE. In the Final assignment, I took a role of a data scientist with a primary task to analyze the historical trends in automobile sales (of XYZAutomotives) during recession periods and give the company directors insights on how the sales were affected during times of recession by providing a number of charts or plots to visualize the data and make it easy for the directors to understand my analysis. The secondary task the directors requested was for me to create suitable dashboards with added user interactions to contain my plots and charts, and thus provide them with the ability to select a particular report for a period of time & discuss the data in detail. 
 
 ## Weekly Topics
 
 * **Introduction to Data visualization Tools with Python**
-  * Matplotlib
+  * Types of Plots
+  * Plot libraries (Matplotlib, Pandas, Seaborn)
+    * Matplotlib, Pandas, Seaborn
+    * Folium, Plotly, PyWaffle
+  * Matplotlib's Architecture (back-end, artist, scripting layers)
+  * Basic Plotting with Matplotlib
   * Working with a Dataset on Immigration to Canada
   * Line plots
 * **Basic & Specialized Visualization Tools**
@@ -17,19 +21,25 @@ This course teaches how to create meaningful, effective, and aesthetically pleas
   * Pie charts
   * Boxplot
   * Scatter plot
+  * Plotting directly with Matplotlib
 * **Advanced Visualizations & Geospatial data**
-  * Waffle chart
-  * Word cloud
+  * Waffle chart & Word cloud
   * Seaborn & Regression plots
   * Folium
+  * Maps with Markers
   * Choropleth map
 * **Creating Dashboards with Plotly & Dash**
+  * Dashboarding Overview 
   * Plotly Graph Objects
   * Plotly Express
   * Dash components: Core components & HTML components
-* **Final Assignment** [Click here]
-  * This project uses an Interactive Dashboard to demonstrate US Domestic Airline Flights Performance & Yearly Average Flight Delay Statistics for a given year (2005 to 2020).
-  
+  * Make Dashboards Interactive
+  * Understanding the Skills Network lab environment cloud IDE 
+* **Final Assignment**
+   * In this project, interactive dashboards using both **Dash** & **Plotly** were used to give the company directors insights on how automobile sales (of XYZAutomotives) were affected during times of recession.
+  * **Part 1** [Click here for Plotly](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/08.%20Data%20Visualization%20with%20Python/5.%20Final%20Project%20%26%20Exam/3.%20Final-Assignment-Part1.ipynb)<br>
+  * **Part 2** [Click here for Dash](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/08.%20Data%20Visualization%20with%20Python/5.%20Final%20Project%20%26%20Exam/4.%20Final-Assignment-Part-2-Dash.py)<br>
+   
 ## Skills
 
 * Data Visualization
