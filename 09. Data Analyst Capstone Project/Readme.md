@@ -10,27 +10,27 @@ job seekers, tech innovators, employers, executives & professionals in the compa
 
 ## Weekly Tasks
 
-## Data Collection
+### Data Collection
 
 * The data was collected from several datasets (such as Stack Overflow Survey, Github job postings), web scraped and then explored.
 
-## Data Wrangling
+### Data Wrangling
 
 * The data was then wrangled to remove duplicates & impute missing values from the survey dataset, and the cleaned data was normalized.
 
-## Exploratory Data Analysis
+### Exploratory Data Analysis
 
 * The wrangled data was subjected to EDA (Exploratory Data Analysis) to determine the distribution of the normalized data, and to detect and remove outliers from the survey dataset.
 
-##  Data Visualization
+###  Data Visualization
 
 * Various charts were plotted to visualize the distribution, interesting relationships between features, composition and comparison of the data.
 
-## Building a Dashboard
+### Building a Dashboard
 
 * IBM Cognos was employed to create interactive dashboards to help analyze & present the data dynamically.
 
-## Presentation of Insights
+### Presentation of Insights
 
 * Storytelling skills were used to provide a narrative & present data-driven insights dynamically.
 
