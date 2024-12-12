@@ -36,7 +36,7 @@ job seekers, tech innovators, employers, executives & professionals in the compa
 
 ## Skills
 
-* Cognos Analytics
+* API
 * Data Collection
 * Data Wrangling
 * Data Visualization
@@ -44,14 +44,20 @@ job seekers, tech innovators, employers, executives & professionals in the compa
 * Folium
 * GitHub
 * Interactive Dashboard
+* IBM Cognos Analytics
 * Jupyter Notebook
+* Matplotlib
 * Microsoft Excel
 * Microsoft PowerPoint
+* Numpy
+* Pandas
 * Plotly Dash
 * Presentation
 * Python
-* Relational Database
-* API
+* Relational Databases (RDMS)
+* Scikit-learn 
+* SciPy
+* Seaborn
 * Spreadsheet
 * SQL
 * Webscraping
