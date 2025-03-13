@@ -19,15 +19,61 @@ This certificate consists of 11 Online Courses that provide tools & skills to su
 11. Generative AI: Enhance your Data Analytics Career
 
 ## Tools
+
+* Akkio
+* chatcsv
+* ChatGPT
+* chartpixel 
+* Cognos Analytics
+* Colab
+* Columns AI 
+* Data Robot
+* Datasette
+* Db2
+* Excel Spreadsheets
 * Generative AI
-* SQL
+* Git/GitHub
+* Google Looker Studio
+* hal9 
+* IBM Watson Studio
+* IBM SPSS
+* Jupyter Notebooks
+* Mostly.ai
+* MYSQL
+* phpMyAdmin graphical user interface (GUI)
 * Python
-* 
+* R Studio
+* SQL
+* SQLthroughAI
+* Tomat.AI
 
 ## Libraries
 
+* API library
+* Dash
+* Folium
+* Beautiful Soup
+* IBM's watsonx.ai
+* ipywidgets
+* json
+* LangChain
+* langchain-ibm,
+* langchain-experimental
+* Matplotlib
 * Numpy
-*
+* Pandas
+* piplite
+* Plotly
+* plotly graph objects
+* plotly express 
+* PyWaffle
+* Requests
+* RandomUser
+* Scikit-learn/sklearn
+* SciPy
+* Seaborn
+* SQLite/Sqlite3
+* tqdm
 
 ## Projects
 
@@ -37,7 +83,7 @@ This certificate consists of 11 Online Courses that provide tools & skills to su
 
 [Predicting House Sales Prices for King County, USA](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/main/07.%20Data%20Analysis%20with%20Python/6.%20Final%20Assignment/House_Sales_in_King_Count_USA.ipynb)<br>
 
-Analyzing the Historical trends in Automobile Sales of XYZAutomotives during Recession Periods
+**Analyzing the Historical trends in Automobile Sales of XYZAutomotives during Recession Periods**
 * [Part 1](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/08.%20Data%20Visualization%20with%20Python/5.%20Final%20Project%20%26%20Exam/3.%20Final-Assignment.ipynb)<br>
 * [Part 2](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/08.%20Data%20Visualization%20with%20Python/5.%20Final%20Project%20%26%20Exam/4.%20Final-Assignment-Part-2-Dash.py)<br>
 
