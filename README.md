@@ -20,6 +20,8 @@ This certificate consists of 11 Online Courses that provide tools & skills to su
 
 ## Tools
 * Generative AI
+* SQL
+* Python
 * 
 
 ## Libraries
