@@ -5,8 +5,7 @@
 
 ## Summary
 
-This capstone Project course will give one the the opportunity to practice the work that Data Analysts do in an increasingly data-centric world of everchanging technologies. As part of a capstone project, I took on the role of a Data Analyst with the Global IT and Business Consulting Services Firm to assist with data collection, web scraping, exploration, data wrangling, exploratory analysis, statistical analysis, and data visualization of several datasets obtained from various sources to help identify trends for the Current & Future year’s report on emerging technologies and skills. An Interactive Dashboard with IBM Cognos or Google Looker Studio were created to help analysis & presentation of the data dynamically. Finally, storytelling skills were used to provide a narrative & present the findings of the analysis to job recruiters, 
-job seekers, tech innovators, employers, executives & professionals in the company. 
+This capstone Project course will give one the opportunity to practice the work that Data Analysts do in an increasingly data-centric world of everchanging technologies. As part of a capstone project, I took on the role of a Data Analyst with the Global IT and Business Consulting Services Firm to assist with data collection, web scraping, exploration, data wrangling, exploratory analysis, statistical analysis, and data visualization of several datasets obtained from various sources to help identify trends for the Current & Future year’s report on emerging technologies and skills. An Interactive Dashboard with IBM Cognos or Google Looker Studio were created to help analysis & presentation of the data dynamically. Finally, storytelling skills were used to provide a narrative & present the findings of the analysis to job recruiters, job seekers, tech innovators, employers, executives & professionals in the company. 
 
 ## Weekly Tasks
 
