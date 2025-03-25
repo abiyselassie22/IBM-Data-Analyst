@@ -2,7 +2,7 @@
 
 ## Summary
 
-The course prepare s one to enter the job market as a great candidate for a data analyst position. It provides practical techniques for creating essential job-seeking materials such as a resume & portfolio, as well as auxiliary tools like a cover letter & an elevator pitch. One will also learn how to find & assess prospective job positions, apply to them, and lay the groundwork for interviewing. It enables one to perform professionally & effectively at interviews. One will also learn how to appproach a take-home challenges & get to practice completing them. It also provides information about theregular functions &  tasks of data analysts, as well as the opportunities of the profession & some options for career development.
+The course prepares one to enter the job market as a great candidate for a data analyst position. It provides practical techniques for creating essential job-seeking materials such as a resume & portfolio, as well as auxiliary tools like a cover letter & an elevator pitch. One will also learn how to find & assess prospective job positions, apply to them, and lay the groundwork for interviewing. It enables one to perform professionally & effectively at interviews. One will also learn how to approach a take-home challenges & get to practice completing them. It also provides information about the regular functions & tasks of data analysts, as well as the opportunities of the profession & some options for career development.
 
 ## Weekly Topics
 
