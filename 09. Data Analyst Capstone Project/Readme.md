@@ -28,7 +28,7 @@ job seekers, tech innovators, employers, executives & professionals in the compa
 
 ### Building a Dashboard
 
-* IBM Cognos was employed to create interactive dashboards to help analyze & present the data dynamically.
+* IBM Cognos was employed to create interactive dashboards to identify insights & trends on emerging technologies & skills which include top programming languages, top databases, Webframes & Platforms.
 
 ### Presentation of Insights
 
