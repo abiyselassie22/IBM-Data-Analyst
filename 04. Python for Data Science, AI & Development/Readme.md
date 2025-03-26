@@ -2,7 +2,7 @@
 
 ## Summary
 
-This course introduces programming in Python. It teaches about Python basics, the various data types, Python Data structures, logic concepts like conditions & branching, and use of Python libraries. Python is used to perform tasks such as Data analysis & HTML webscraping with API. This course involves working on numerous hands-on labs using Jupyter Notebooks. It provides us with the required skills to create basic programs, work with data, and automate real-world tasks using python.
+This course introduces programming in Python. It teaches about Python basics, the various data types, Python Data structures like Lists and Tuples, logic concepts like conditions & branching, and use of Python libraries such as Pandas, NumPy & Beautiful Soup. Python is used to perform tasks such as Data collection & HTML Webscraping with APIs. This course involves working on numerous hands-on labs using Jupyter Notebooks. It provides us with the required skills to create basic programs, work with data, and automate real-world tasks using python.
 
 ## Weekly Topics
 
