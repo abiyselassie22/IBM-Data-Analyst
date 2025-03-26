@@ -2,7 +2,7 @@
 
 ## Summary
 
-This course demonstrates the foundational Python skills for working with data. It involves completing a project in which one will assume the role of Data Analyst. It provides one with a Real-World dataset & a Real-World inspired scenario to identify patterns & trends. It involves working on a hands-on project developing a dashboard using python. One will perform specific data analytics tasks such as extracting data, webscraping, visualizing data & creating a dashboard. The project will showcase one's proficiency with python & using libraries such as pandas & Beautiful Soup within a Jupyter Notebook.
+This course demonstrates the foundational Python skills for working with data. It involves completing a project in which one will assume the role of Data Analyst. It provides one with a Real-World dataset & a Real-World inspired scenario to identify patterns & trends. It involves working on a hands-on project developing a dashboard using python. One will perform specific data analytics tasks such as extracting data, Webscraping, visualizing data & creating a dashboard. The project will showcase one's proficiency with python & using libraries such as Pandas & Beautiful Soup within a Jupyter Notebook.
 
 ## Topics
 
