@@ -2,7 +2,7 @@
 
 ## Summary
 
-This course introduces Relational databases. SQL is the working language of data analysts, data scientists and other data professionals for communicating with and extracting data from databases. It teaches SQL inside out from the very basics of SELECT statements to advanced concepts like Joins. It enables us to write basic SQL statements like: SELECT, INSERT, UPDATE & Delete; filter result sets using WHERE, COUNT, DISTINCT & LIMIT clauses; differentiate between DML & DDL Statements; CREATE, ALTER, DROP & load tables; use string patterns & ranges; ORDER, GROUP result sets & built-in Database functions; build sub-queries & query data from multiple tables; access databases as a Data Analyst using Jupyter Notebooks with SQL & Python;  work with advanced SQL like Stored Procedures, Views, ACID Transactions, Inner & Outer Joins through hands-on labs & projects. In the Final Project, we will analyze multiple real-world datasets including the census, crime, and school data for a given neighborhood or district, and identify the causes that impact the enrollment, safety, health, and environment ratings of schools.
+This course introduces Relational databases. SQL is the working language of data analysts, data scientists and other data professionals for communicating with and extracting data from databases. It teaches SQL inside out from the very basics of SELECT statements to advanced concepts like Joins. It enables us to write basic SQL statements like: SELECT, INSERT, UPDATE & Delete; filter result sets using WHERE, COUNT, DISTINCT & LIMIT clauses; differentiate between DML & DDL Statements; CREATE, ALTER, DROP & load tables; use string patterns & ranges; ORDER, GROUP result sets & built-in Database functions; build sub-queries & query data from multiple tables; access databases as a Data Analyst using Jupyter Notebooks with SQL & Python;  work with advanced SQL like Stored Procedures, Views, ACID Transactions, Inner & Outer Joins through hands-on labs & projects. In the Final Project, I needed to analyze multiple real-world datasets (including the census, crime, and school data for a given neighborhood or district) by running specific queries using Advanced SQL techniques, and identified the causes that impact the enrollment, safety, health, and environment ratings of schools using result sets generated.
 
 ## Weekly Topics
 
@@ -35,7 +35,7 @@ This course introduces Relational databases. SQL is the working language of data
   * Stored Procedures
   * ACID transactions
   * Join Statements
-  * Final Project: Advanced SQL Techniques
+  * **Final Project: Advanced SQL Techniques** [Click here](https://github.com/abiyselassie22/IBM-Data-Analyst/blob/master/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/6.%20Advanced%20SQL%20for%20Data%20Engineer/2.%20Advanced%20SQL-2/2.%20FinalProjectAdvanced%20SQLTech.pdf)<br>
 
 ## Skills
 
